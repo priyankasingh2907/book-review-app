@@ -1,5 +1,8 @@
 
-https://github.com/user-attachments/assets/1149dab4-7edf-4bb7-900f-8030df166edc
+https://github.com/user-attachments/assets/c1ae1228-be5b-4cb8-aaa7-1ff938690083
+
+
+
 
 # Laravel Book Review App
 
